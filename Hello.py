@@ -5,7 +5,7 @@ from scipy.ndimage.interpolation import zoom
 from streamlit_drawable_canvas import st_canvas
 from utils import process_image
 st.markdown("# :blue[Reconocimiento] de :green[numeros] :pencil:🐣🍁 ")
-st.video(data, format=https://www.youtube.com/watch?v=YOaRvODldqQ, start_time=0)
+st.video(https://www.youtube.com/watch?v=YOaRvODldqQ, formato="video/mp4", hora_inicio=0)
 
 # Load trained model
 model = tf.keras.models.load_model('mi_modelo.h5')
